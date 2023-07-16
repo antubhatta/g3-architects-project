@@ -1,6 +1,8 @@
 /* Shared related styles */
 body{
     font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 .btn-primary{
     color: #FFF;
